@@ -1,0 +1,1 @@
+[![Daily Commit](https://github.com/sidharthchandras/ga3-github-action/actions/workflows/daily_commit.yml/badge.svg)](https://github.com/sidharthchandras/ga3-github-action/actions/workflows/daily_commit.yml)
