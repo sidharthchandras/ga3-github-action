@@ -1,4 +1,6 @@
 name: Daily Commit
+permissions:
+  contents: write
 
 # Step 2a: Schedule using cron syntax (run daily at 03:30 UTC)
 on:
